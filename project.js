@@ -1,6 +1,6 @@
 let balance = 0;
 const rows = 3;
-const cols = 2;
+const cols = 3;
 
 const symbols_count = {
   A: 3,
