@@ -1,0 +1,34 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #222;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+}
+.game-container {
+  background: #333;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+  width: 300px;
+}
+.inputs input, .inputs button {
+  margin: 5px;
+  padding: 10px;
+  width: 90%;
+}
+.reels {
+  margin: 20px 0;
+}
+.reels-row {
+  display: flex;
+  justify-content: center;
+}
+.reels-row div {
+  background: #444;
+  padding: 10px 15px;
+  margin: 3px;
+  font-size: 24px;
+  border-radius: 5px;
+}
